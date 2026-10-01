@@ -8,7 +8,7 @@
 
 A production-grade, scientific GIS web platform engineered for an **IEEE forest-fire early detection research project**. The application visualizes real-time **NASA FIRMS (Fire Information for Resource Management System)** active-fire satellite telemetry and IoT ground sensor data across critical global biomes, including **Chennai & Tamil Nadu districts (India)**, **Indonesia Tropical Rainforests & Peatlands**, and the **Amazon Rainforest Biome (South America)**.
 
----
+----
 
 ## 📚 Instruction Manuals & Documentation
 
